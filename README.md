@@ -1,1 +1,3 @@
-# Epitech_malloc
+Epitech 2nd year project
+
+C memory allocator
